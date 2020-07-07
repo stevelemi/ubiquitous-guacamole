@@ -1,10 +1,22 @@
-- title: Start
+- title: Willkommen
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Über mich
+  url: "/about/"
   side: left
+
+- title: Therapieangebote
+  url: "/therapieangebote/"
+  side: left
+
+- title: "Terminvereinbarung"
+  url: "/terminvereinbarung/"
+  side: left
+
+- title: "Kontakt"
+  url: "/kontakt/"
+  side: right
 
 - title: "Templates"
   url: "/design/"
@@ -68,8 +80,4 @@
 
 - title: "Search"
   url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
   side: right
