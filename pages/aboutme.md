@@ -1,34 +1,25 @@
 ---
 layout: page
-sidebar: right
-subheadline: Templates
-title:  "Page/Post Right Sidebar"
-teaser: "This is an example of page/post with a sidebar on the right."
-breadcrumb: true
-tags:
-    - post format
-categories:
-    - design
-image:
-    thumb: gallery-example-2-thumb.jpg
-    title: gallery-example-2.jpg
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
----
-*Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
-<!--more-->
-
-~~~
-show_meta: true
-~~~
-
-If you don't want to show metadata, it's simple again:
-
-~~~
 show_meta: false
-~~~
+title: "Getting Started"
+subheadline: "A Step-by-Step Guide"
+teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+header:
+   image_fullwidth: "header_homepage_13.jpg"
+permalink: "/getting-started/"
+---
+1. Open `_config.yml` and work it through, it's well documented
+1. Add your own `logo.png` to `/assets/img/`.
+1. Open `_data/socialmedia.yml` and add your own social media links.
+1. Open `_data/navigation.yml` and customize your navigation.
+1. Open `_data/language.yml` and translate the theme if necessary.
+1. Open `_data/services.yml` and customize links in the footer.
+1. Open `_data/network.yml` and customize links in the footer.
+1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
+1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
+1. Make it yours and add your own content.
+
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
 
 
-## Other Post Formats
-{: .t60 }
-{% include list-posts tag='post format' %}
+ [1]: {{ site.url }}{{ site.baseurl }}/documentation/
