@@ -17,11 +17,11 @@ header:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
-permalink: /index.html
+#callforaction:
+#  url: https://tinyletter.com/feeling-responsive
+#  text: Inform me about new updates and features ›
+#  style: alert
+#permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
@@ -31,7 +31,7 @@ homepage: true
 
 # Herzlich Willkommen...
 
-##...auf der Website meiner psychotherapeutischen Praxis!
+## ...auf der Website meiner psychotherapeutischen Praxis!
 
 Auf den folgenden Seiten möchte ich Sie über mein Behandlungsangebot und meinen Werdegang informieren.
 
