@@ -28,4 +28,11 @@ permalink: /index.html
 #
 homepage: true
 ---
-Hello
+
+# Herzlich Willkommen...
+
+##...auf der Website meiner psychotherapeutischen Praxis!
+
+Auf den folgenden Seiten möchte ich Sie über mein Behandlungsangebot und meinen Werdegang informieren.
+
+Sollten Sie Interesse an meinem Angebot haben oder sich unsicher sein, ob das Angebot für Sie sinnvoll ist, zögern Sie nicht, mich in meiner Telefonsprechzeit anzurufen oder mir eine Nachricht über das Kontaktformular zu schreiben. So können wir einen Termin für ein erstes persönliches Gespräch vereinbaren und alles Weitere klären.
