@@ -1,33 +1,20 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
-layout: frontpage
-header:
-  image_fullwidth: header_unsplash_12.jpg
-#
-# Use the call for action to show a button on the frontpage
-#
-# To make internal links, just use a permalink like this
-# url: /getting-started/
-#
-# To style the button in different colors, use no value
-# to use the main color or success, alert or secondary.
-# To change colors see sass/_01_settings_colors.scss
-#
-#callforaction:
-#  url: https://tinyletter.com/feeling-responsive
-#  text: Inform me about new updates and features ›
-#  style: alert
-#permalink: /index.html
-#
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
-#
-
-
+layout: page
+sidebar: right
+subheadline: Templates
+title:  "Page/Post Right Sidebar"
+teaser: "This is an example of page/post with a sidebar on the right."
+breadcrumb: true
+tags:
+    - post format
+categories:
+    - design
+image:
+    thumb: gallery-example-2-thumb.jpg
+    title: gallery-example-2.jpg
+    caption: Unsplash.com
+    caption_url: http://unsplash.com
+---
 Herzlich Willkommen...
 
 ...auf der Website meiner psychotherapeutischen Praxis!
@@ -35,8 +22,7 @@ Herzlich Willkommen...
 Auf den folgenden Seiten möchte ich Sie über mein Behandlungsangebot und meinen Werdegang informieren.
 
 Sollten Sie Interesse an meinem Angebot haben oder sich unsicher sein, ob das Angebot für Sie sinnvoll ist, zögern Sie nicht, mich in meiner Telefonsprechzeit anzurufen oder mir eine Nachricht über das Kontaktformular zu schreiben. So können wir einen Termin für ein erstes persönliches Gespräch vereinbaren und alles Weitere klären.
+<!--more-->
 
 
-
-homepage: true
 ---
