@@ -1,6 +1,5 @@
 ---
 layout: page
-sidebar: right
 subheadline: "Mag.a Silke Pfeifer-Mayer "
 title: "Werdegang"
 teaser: "Ein kurzer Überblick über meinen bisherigen Werdegang"
