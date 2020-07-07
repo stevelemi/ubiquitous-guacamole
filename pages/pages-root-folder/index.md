@@ -1,43 +1,34 @@
 ---
-#
-# Use the widgets beneath and the content will be
-# inserted automagically in the webpage. To make
-# this work, you have to use › layout: frontpage
-#
-layout: frontpage
-header:
-  image_fullwidth: header_unsplash_12.jpg
-widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'bla'
-
-#
-# Use the call for action to show a button on the frontpage
-#
-# To make internal links, just use a permalink like this
-# url: /getting-started/
-#
-# To style the button in different colors, use no value
-# to use the main color or success, alert or secondary.
-# To change colors see sass/_01_settings_colors.scss
-#
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
-permalink: /index.html
-#
-# This is a nasty hack to make the navigation highlight
-# this page as active in the topbar navigation
-#
-homepage: true
+layout: page
+sidebar: right
+subheadline: Templates
+title:  "Page/Post Right Sidebar"
+teaser: "This is an example of page/post with a sidebar on the right."
+breadcrumb: true
+tags:
+    - post format
+categories:
+    - design
+image:
+    thumb: gallery-example-2-thumb.jpg
+    title: gallery-example-2.jpg
+    caption: Unsplash.com
+    caption_url: http://unsplash.com
 ---
+*Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
+<!--more-->
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
+~~~
+show_meta: true
+~~~
+
+If you don't want to show metadata, it's simple again:
+
+~~~
+show_meta: false
+~~~
+
+
+## Other Post Formats
+{: .t60 }
+{% include list-posts tag='post format' %}
