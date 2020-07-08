@@ -30,4 +30,7 @@ homepage: true
 ---
 
 # Herzlich Willkommen
-## 
+
+Auf den folgenden Seiten möchte ich Sie über mein Behandlungsangebot und meinen Werdegang informieren.
+
+Sollten Sie Interesse an meinem Angebot haben oder sich unsicher sein, ob das Angebot für Sie sinnvoll ist, zögern Sie nicht, mich telefonisch oder via E-Mail zu kontaktieren. So können wir einen Termin für ein erstes persönliches Gespräch vereinbaren und alles Weitere klären. 
