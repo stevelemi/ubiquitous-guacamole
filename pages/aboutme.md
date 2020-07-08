@@ -4,7 +4,7 @@ subheadline: "Mag.a S. P M "
 title: "Werdegang"
 teaser: "Ein kurzer Überblick über meinen bisherigen Werdegang"
 header:
-   image_fullwidth: "myheader_1.jpg"
+   image_fullwidth: "myheader_2.jpg"
 permalink: "/aboutme/"
 ---
 * 2017: Ausbildung zur Brainspotting-Therapeutin
