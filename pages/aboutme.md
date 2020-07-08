@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline: "Mag.a S. P M "
+subheadline: "Mag.a Silke Pfeifer-Mayer "
 title: "Werdegang"
 teaser: "Ein kurzer Überblick über meinen bisherigen Werdegang"
 header:
