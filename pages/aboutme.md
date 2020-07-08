@@ -3,7 +3,6 @@ layout: page
 subheadline: "Mag.a Silke Pfeifer-Mayer "
 title: "Werdegang"
 teaser: "Ein kurzer Überblick über meinen bisherigen Werdegang"
-sidebar: right
 header:
    image_fullwidth: "myheader_2.jpg"
 permalink: "/aboutme/"
